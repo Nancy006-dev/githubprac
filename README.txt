@@ -5,4 +5,8 @@
 "yes mee"
 "i am trying again"
 "yes mee"
+<<<<<<< HEAD
 "another msg"
+=======
+"merge conflict"
+>>>>>>> feature1
